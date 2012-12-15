@@ -19,6 +19,7 @@ Caracteristicas
  - as linhas seguintes são cabeçalhos e podem mesmo ser linhas com células vazias
  - segue-se uma linha com células numeradas nas colunas usadas para este ficheiro
  - a partir daqui temos os dados
+ - a primeira coluna dos dados descreve os dados nessa linha de acordo com os cabeçalhos para a primeira coluna
 
 
 
