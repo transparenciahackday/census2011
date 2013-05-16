@@ -1,16 +1,16 @@
-"4.10 - FAMÕLIAS CL¡SSICAS, SEGUNDO O NÕVEL DE ESCOLARIDADE ATINGIDO E O SEXO DO REPRESENTANTE DA FAMÕLIA, POR TIPO DE FAMÕLIA ",,,,,,,,,,,,,,,
+"4.10 - FAM√çLIAS CL√ÅSSICAS, SEGUNDO O N√çVEL DE ESCOLARIDADE ATINGIDO E O SEXO DO REPRESENTANTE DA FAM√çLIA, POR TIPO DE FAM√çLIA ",,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-Zona Geogr·fica,NÌvel de escolaridade e sexo do representante da famÌlia,,,,,,,,,,,,,,
-Tipo de famÌlia com base no n˙mero de n˙cleos familiares,Total,Sem nÌvel de escolaridade,,B·sico - 1∫ ciclo,,B·sico - 2∫ ciclo,,B·sico - 3∫ ciclo,,Secund·rio,,PÛs-secund·rio,,Ensino superior ,
+Zona Geogr√°fica,N√≠vel de escolaridade e sexo do representante da fam√≠lia,,,,,,,,,,,,,,
+Tipo de fam√≠lia com base no n√∫mero de n√∫cleos familiares,Total,Sem n√≠vel de escolaridade,,B√°sico - 1¬∫ ciclo,,B√°sico - 2¬∫ ciclo,,B√°sico - 3¬∫ ciclo,,Secund√°rio,,P√≥s-secund√°rio,,Ensino superior ,
 ,,HM,H,HM,H,HM,H,HM,H,HM,H,HM,H,HM,H
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
   Portugal,4043726,266155,125191,1464309,1018410,407613,321028,580282,429723,627692,443108,24912,17051,672763,408718
-      FamÌlias sem n˙cleos,940457,117240,23916,360819,109884,54090,28038,93091,46149,117485,60517,5899,3530,191833,77356
-      FamÌlias sem n˙cleos com uma sÛ pessoa,866827,110082,22318,334376,102347,49440,25776,84932,42233,106865,55256,5186,3094,175946,70832
-      FamÌlias sem n˙cleos sÛ pessoas aparentadas,52162,6121,1198,22110,5916,3431,1641,5503,2475,6109,2791,365,203,8523,3035
-      FamÌlias sem n˙cleos sÛ pessoas aparentadas e/ou n„o aparentadas,21468,1037,400,4333,1621,1219,621,2656,1441,4511,2470,348,233,7364,3489
-      FamÌlias com um n˙cleo,2984598,139051,94840,1035680,853745,341498,283917,474194,374338,500186,375945,18770,13374,475219,327811
+      Fam√≠lias sem n√∫cleos,940457,117240,23916,360819,109884,54090,28038,93091,46149,117485,60517,5899,3530,191833,77356
+      Fam√≠lias sem n√∫cleos com uma s√≥ pessoa,866827,110082,22318,334376,102347,49440,25776,84932,42233,106865,55256,5186,3094,175946,70832
+      Fam√≠lias sem n√∫cleos s√≥ pessoas aparentadas,52162,6121,1198,22110,5916,3431,1641,5503,2475,6109,2791,365,203,8523,3035
+      Fam√≠lias sem n√∫cleos s√≥ pessoas aparentadas e/ou n√£o aparentadas,21468,1037,400,4333,1621,1219,621,2656,1441,4511,2470,348,233,7364,3489
+      Fam√≠lias com um n√∫cleo,2984598,139051,94840,1035680,853745,341498,283917,474194,374338,500186,375945,18770,13374,475219,327811
       Casal de direito sem filhos,892560,64428,58571,486009,456814,60951,56943,96500,89846,86411,78089,2595,2221,95666,80309
       Casal de direito sem filhos sem outras pessoas,829835,59920,55746,449863,425922,56121,52678,89450,83657,80994,73485,2475,2138,91012,76523
       Casal de direito sem filhos com outras pessoas,62725,4508,2825,36146,30892,4830,4265,7050,6189,5417,4604,120,83,4654,3786
@@ -35,22 +35,22 @@ Tipo de famÌlia com base no n˙mero de n˙cleos familiares,Total,Sem nÌvel de esco
       Pai com filho(s) tendo o mais novo 25 ou mais anos,24959,3262,3129,12944,12258,1506,1322,2355,2105,2241,1864,37,22,2614,2062
       Pai com filho(s) tendo o mais novo 25 ou mais anos sem outras pessoas,23228,3010,2975,12105,11646,1401,1238,2178,1961,2057,1731,33,19,2444,1937
       Pai com filho(s) tendo o mais novo 25 ou mais anos com outras pessoas,1731,252,154,839,612,105,84,177,144,184,133,4,3,170,125
-      M„e com pelo menos um filho com menos de 25 anos,216160,6085,327,40260,1471,24547,381,43029,825,52364,1103,1926,91,47949,609
-      M„e com pelo menos um filho com menos de 25 anos sem outras pessoas,184409,3245,5,29201,23,21331,72,37746,351,46955,573,1745,64,44186,295
-      M„e com pelo menos um filho com menos de 25 anos com outras pessoas,31751,2840,322,11059,1448,3216,309,5283,474,5409,530,181,27,3763,314
-      M„e com filho(s) tendo o mais novo 25 ou mais anos,142759,23195,267,67617,2644,8756,1499,14178,2294,13128,2768,228,132,15657,2254
-      M„e com filho(s) tendo o mais novo 25 ou mais anos sem outras pessoas,130624,21439,179,61861,2288,7955,1376,12894,2108,11900,2500,211,120,14364,2038
-      M„e com filho(s) tendo o mais novo 25 ou mais anos com outras pessoas,12135,1756,88,5756,356,801,123,1284,186,1228,268,17,12,1293,216
-      FamÌlias com dois n˙cleos,114488,9338,6124,65206,52813,11677,8838,12642,9014,9775,6502,237,143,5613,3475
-      FamÌlias sem filhos nos dois n˙cleos,13783,865,777,7949,7372,1378,1204,1515,1309,1296,1007,26,19,754,564
-      FamÌlias sem filhos nos dois n˙cleos sem outras pessoas,12142,726,675,7036,6587,1202,1064,1344,1167,1140,897,23,17,671,514
-      FamÌlias sem filhos nos dois n˙cleos com outras pessoas,1641,139,102,913,785,176,140,171,142,156,110,3,2,83,50
-      FamÌlias com filhos sÛ num dos n˙cleos,62772,4640,3857,36993,33006,6010,4923,6528,5145,5264,3792,131,80,3206,2066
-      FamÌlias com filhos sÛ num dos n˙cleos sem outras pessoas,56897,4109,3557,33576,30334,5458,4495,5892,4684,4810,3477,116,72,2936,1900
-      FamÌlias com filhos sÛ num dos n˙cleos com outras pessoas,5875,531,300,3417,2672,552,428,636,461,454,315,15,8,270,166
-      FamÌlias com filhos nos dois n˙cleos,37933,3833,1490,20264,12435,4289,2711,4599,2560,3215,1703,80,44,1653,845
-      FamÌlias com filhos nos dois n˙cleos sem outras pessoas,33029,3226,1312,17708,11160,3798,2452,3989,2264,2806,1508,70,37,1432,750
-      FamÌlias com filhos nos dois n˙cleos com outras pessoas,4904,607,178,2556,1275,491,259,610,296,409,195,10,7,221,95
-      FamÌlias com trÍs ou mais n˙cleos,4183,526,311,2604,1968,348,235,355,222,246,144,6,4,98,76
-      FamÌlias com trÍs ou mais n˙cleos sem outras pessoas,3540,437,270,2227,1721,290,198,295,193,206,125,4,2,81,64
-      FamÌlias com trÍs ou mais n˙cleos com outras pessoas,643,89,41,377,247,58,37,60,29,40,19,2,2,17,12
+      M√£e com pelo menos um filho com menos de 25 anos,216160,6085,327,40260,1471,24547,381,43029,825,52364,1103,1926,91,47949,609
+      M√£e com pelo menos um filho com menos de 25 anos sem outras pessoas,184409,3245,5,29201,23,21331,72,37746,351,46955,573,1745,64,44186,295
+      M√£e com pelo menos um filho com menos de 25 anos com outras pessoas,31751,2840,322,11059,1448,3216,309,5283,474,5409,530,181,27,3763,314
+      M√£e com filho(s) tendo o mais novo 25 ou mais anos,142759,23195,267,67617,2644,8756,1499,14178,2294,13128,2768,228,132,15657,2254
+      M√£e com filho(s) tendo o mais novo 25 ou mais anos sem outras pessoas,130624,21439,179,61861,2288,7955,1376,12894,2108,11900,2500,211,120,14364,2038
+      M√£e com filho(s) tendo o mais novo 25 ou mais anos com outras pessoas,12135,1756,88,5756,356,801,123,1284,186,1228,268,17,12,1293,216
+      Fam√≠lias com dois n√∫cleos,114488,9338,6124,65206,52813,11677,8838,12642,9014,9775,6502,237,143,5613,3475
+      Fam√≠lias sem filhos nos dois n√∫cleos,13783,865,777,7949,7372,1378,1204,1515,1309,1296,1007,26,19,754,564
+      Fam√≠lias sem filhos nos dois n√∫cleos sem outras pessoas,12142,726,675,7036,6587,1202,1064,1344,1167,1140,897,23,17,671,514
+      Fam√≠lias sem filhos nos dois n√∫cleos com outras pessoas,1641,139,102,913,785,176,140,171,142,156,110,3,2,83,50
+      Fam√≠lias com filhos s√≥ num dos n√∫cleos,62772,4640,3857,36993,33006,6010,4923,6528,5145,5264,3792,131,80,3206,2066
+      Fam√≠lias com filhos s√≥ num dos n√∫cleos sem outras pessoas,56897,4109,3557,33576,30334,5458,4495,5892,4684,4810,3477,116,72,2936,1900
+      Fam√≠lias com filhos s√≥ num dos n√∫cleos com outras pessoas,5875,531,300,3417,2672,552,428,636,461,454,315,15,8,270,166
+      Fam√≠lias com filhos nos dois n√∫cleos,37933,3833,1490,20264,12435,4289,2711,4599,2560,3215,1703,80,44,1653,845
+      Fam√≠lias com filhos nos dois n√∫cleos sem outras pessoas,33029,3226,1312,17708,11160,3798,2452,3989,2264,2806,1508,70,37,1432,750
+      Fam√≠lias com filhos nos dois n√∫cleos com outras pessoas,4904,607,178,2556,1275,491,259,610,296,409,195,10,7,221,95
+      Fam√≠lias com tr√™s ou mais n√∫cleos,4183,526,311,2604,1968,348,235,355,222,246,144,6,4,98,76
+      Fam√≠lias com tr√™s ou mais n√∫cleos sem outras pessoas,3540,437,270,2227,1721,290,198,295,193,206,125,4,2,81,64
+      Fam√≠lias com tr√™s ou mais n√∫cleos com outras pessoas,643,89,41,377,247,58,37,60,29,40,19,2,2,17,12
